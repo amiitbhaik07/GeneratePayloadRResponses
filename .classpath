@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-ooxml-3.17.jar" sourcepath="C:/Users/Bhaik/.m2/repository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+                {
+                    "applicationArea": {
+                        "consumerName": "ORDER",
+                        "internalTransactionId": "69711"
+                    },
+                    "userId": "smadick",
+                    "languageCode": "EN_US",
+                    "quoteObjectId": ${quoteObjectIdVar}$,
+                    "actionType": "DETACH",
+                    "applicationSubFlow": null,
+                    "orderLinesTbl": [{
+                        "quoteLineId": ${quoteLineIdVar}$
+                    }]
+                }
